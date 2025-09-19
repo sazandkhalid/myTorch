@@ -1,4 +1,4 @@
-##Project Structure 
+## Project Structure  
 myTorch/
 ├── data.py # Data loading & preprocessing utilities
 ├── models.py # Core model classes (Linear, Logistic Regression, Dense MLP)
